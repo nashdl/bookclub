@@ -33,7 +33,7 @@ Several locations have volunteered meatspaces for attendees to congregate. These
 
   [1313 4th Ave N, Nashville, TN 37208](https://www.google.com/maps/preview#!data=!1m4!1m3!1d2847!2d-86.7885079!3d36.177803!4m13!3m12!1m0!1m1!1s1313+4th+Ave+N%2C+Nashville%2C+TN+37208!3m8!1m3!1d3312388!2d-85.978599!3d35.830521!3m2!1i1024!2i768!4f13.1&fid=0)
   
-- **Stratasan**
+- **Stratasan** (RSVP will@stratasan.com)
 
   [1009 3rd Ave N #100, Nashville, TN 37201](https://www.google.com/maps/preview#!data=!1m4!1m3!1d45559!2d-86.784616!3d36.174221!4m13!3m12!1m0!1m1!1s1009+3rd+Ave+N+%23100%2C+Nashville%2C+TN+37201!3m8!1m3!1d3312388!2d-85.978599!3d35.830521!3m2!1i1024!2i768!4f13.1&fid=0)
 
