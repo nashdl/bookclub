@@ -1,0 +1,76 @@
+	
+Kevin Barnes	12:03 PM
+video is off
+but I like staring at Jamison
+LP is online
+	
+me	12:03 PM
+can anyone hear me?
+	
+Kevin Barnes	12:03 PM
+there are three of us here: Erle, Nate, and Kevin
+hello
+me waves
+	
+me	12:04 PM
+i've got 2 here
+hmm, can u guys hear each other?
+	
+Kevin Barnes	12:05 PM
+we're turning off video, right?
+Brandon Valentine joined group chat.
+	
+me	12:06 PM
+probably good idea to turn off video :)
+	
+Kevin Barnes	12:06 PM
+no parents, yolo
+Brandon's beard!!!!
+Brandon Valentine left group chat.
+	
+Kevin Barnes	12:08 PM
+https://github.com/nashdl/bookclub
+somebody needs to turn off their espresso machines
+cmd-D mutes/unmutes btw
+	
+Keith Marcum	12:21 PM
+This is long-winded so I'm going to type it: It's interesting to me that we're sometimes interchanging the words "domain expert" and "client". A lot of us to contracting for clients. In my experience, any time the client isn't organizationally or individually a domain expert, the project is in trouble.
+	
+Kevin Barnes	12:22 PM
++1
+Kevin Barnes left group chat.
+Kevin Barnes joined group chat.
+	
+Keith Marcum	12:26 PM
+feedback loops +1
+it's an XP thing.
+	
+James Fryman	12:27 PM
+I always think PDCA when I think about agile methodologies, which includes the feedback loop as a key component in the interaction.
+https://en.wikipedia.org/wiki/PDCA
+	
+Keith Marcum	12:28 PM
+https://en.wikipedia.org/wiki/Extreme_programming_practices#Whole_team
+The only place I've seen it in practice was Pivotal Labs.
+I've seen Eliza disguise domain model extraction as social calls with clients. It's pretty effective, but labor intensive.
+	
+Kevin Barnes	12:33 PM
+brilliant!
+	
+me	12:34 PM
++1
+	
+Kevin Barnes	12:36 PM
+in Ruby, a Date object is a great Value Object example
+Keith Marcum left group chat.
+Keith Marcum joined group chat.
+	
+Kevin Barnes	12:40 PM
+yeah, at a higher level, a Date Range would be a good one, possibly composed of Date value objects
+you don't hear about that a lot, composed Value Objects
+	
+Keith Marcum	12:54 PM
+lil' KB opened a couple issues. I'm going to add one as well.
+	
+Kevin Barnes	12:55 PM
+\m/
