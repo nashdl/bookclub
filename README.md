@@ -25,9 +25,9 @@ Go ahead and fork the repo to add notes/code/etc. Anything you think would help 
 There will be a Google Hangout available for the locations listed below to join. If you have a group joining from another location (with at least 2 attendees), let me know and I'll reserve a spot for you in the Hangout. I'm going to try to limit single attendees from joining the hangout since there is an upper limit of 10.
 Several locations have volunteered meatspaces for attendees to congregate. These include:
 
-- **CentreSource** (Feel free to show up)
+- **CentreSource** (In the new building, entered from 5th Ave. Feel free to show up.)
 
-  [1313 4th Ave N, Nashville, TN 37208](https://www.google.com/maps/preview#!data=!1m4!1m3!1d2847!2d-86.7885079!3d36.177803!4m13!3m12!1m0!1m1!1s1313+4th+Ave+N%2C+Nashville%2C+TN+37208!3m8!1m3!1d3312388!2d-85.978599!3d35.830521!3m2!1i1024!2i768!4f13.1&fid=0)
+  [1312 5th Ave N, Nashville, TN 37208](https://www.google.com/maps/preview#!q=1312+5th+Ave+N%2C+Nashville%2C+TN&data=!4m15!2m14!1m13!1s0x886467026363a9f5%3A0x2e040439d0293b71!3m8!1m3!1d3061!2d-86.7885079!3d36.177803!3m2!1i1438!2i730!4f13.1!4m2!3d36.1775779!4d-86.789086)
   
 - **Center615** (RSVP @R_Macy on twitter)
 
