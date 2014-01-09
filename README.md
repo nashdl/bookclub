@@ -27,11 +27,11 @@ Several locations have volunteered meatspaces for attendees to congregate. These
 
 - **CentreSource** (Feel free to show up)
 
-  [615 Main St, Nashville, TN 37206](https://www.google.com/maps/preview#!data=!1m4!1m3!1d2847!2d-86.761904!3d36.174508!4m13!3m12!1m0!1m1!1s615+Main+St%2C+Nashville%2C+TN+37206!3m8!1m3!1d3312388!2d-85.978599!3d35.830521!3m2!1i1024!2i768!4f13.1&fid=0)
+  [1313 4th Ave N, Nashville, TN 37208](https://www.google.com/maps/preview#!data=!1m4!1m3!1d2847!2d-86.7885079!3d36.177803!4m13!3m12!1m0!1m1!1s1313+4th+Ave+N%2C+Nashville%2C+TN+37208!3m8!1m3!1d3312388!2d-85.978599!3d35.830521!3m2!1i1024!2i768!4f13.1&fid=0)
   
 - **Center615** (RSVP @R_Macy on twitter)
 
-  [1313 4th Ave N, Nashville, TN 37208](https://www.google.com/maps/preview#!data=!1m4!1m3!1d2847!2d-86.7885079!3d36.177803!4m13!3m12!1m0!1m1!1s1313+4th+Ave+N%2C+Nashville%2C+TN+37208!3m8!1m3!1d3312388!2d-85.978599!3d35.830521!3m2!1i1024!2i768!4f13.1&fid=0)
+  [615 Main St, Nashville, TN 37206](https://www.google.com/maps/preview#!data=!1m4!1m3!1d2847!2d-86.761904!3d36.174508!4m13!3m12!1m0!1m1!1s615+Main+St%2C+Nashville%2C+TN+37206!3m8!1m3!1d3312388!2d-85.978599!3d35.830521!3m2!1i1024!2i768!4f13.1&fid=0)
   
 - **Stratasan** (RSVP will@stratasan.com)
 
