@@ -16,7 +16,7 @@ Weekly discussion will be primarily over Google Hangout. See below for details.
 
 ---
 
-To try to stay on track, please post questions/topics for discussion as an open issue on https://github.com/nashdl/bookclub
+To try to stay on track, please post questions/topics for discussion as an open issue on https://github.com/nashdl/bookclub/issues
 
 Go ahead and fork the repo to add notes/code/etc. Anything you think would help out the discussion.
 
