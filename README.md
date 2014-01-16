@@ -9,7 +9,7 @@ Notes/Discussions for NashDL Book Club
 
 # Books Completed
 
-2014 01-09 && 01-16 [DDD Quickly](ddd-quickly)
+2014 01-09 && 01-16 [DDD Quickly](http://www.infoq.com/minibooks/domain-driven-design-quickly)
 
 # Meetup
 
