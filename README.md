@@ -2,6 +2,15 @@
 
 Notes/Discussions for NashDL Book Club
 
+# Next Book
+
+2014 01-30 && 02-13 
+[The Drunkard's Walk](http://www.amazon.com/The-Drunkards-Walk-Randomness-Rules/dp/0307275175)
+
+# Books Completed
+
+2014 01-09 && 01-16 [DDD Quickly](ddd-quickly)
+
 # Meetup
 
 Thursdays Noon-1pm CST.
