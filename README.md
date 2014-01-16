@@ -11,28 +11,29 @@ Notes/Discussions for NashDL Book Club
 
 2014 01-09 && 01-16 [DDD Quickly](http://www.infoq.com/minibooks/domain-driven-design-quickly)
 
-# Meetup
+# Syllabus
 
-Thursdays Noon-1pm CST.
+Complete each book in 2 sessions. If we cannot accomplish that then we can decide if it's worth completing.
 
----
+# Meetup Details
 
-Join us at #nashdl on freenode for live chat anytime.
+Thursday every 2 weeks at Noon-1pm CST.
 
----
+## IRC
 
-Weekly discussion will be primarily over Google Hangout. See below for details.
+Join us on **IRC** at `#nashdl` on `freenode` for live chat anytime.
 
----
+## Github Issues
 
 To try to stay on track, please post questions/topics for discussion as an open issue on https://github.com/nashdl/bookclub/issues
 
 Go ahead and fork the repo to add notes/code/etc. Anything you think would help out the discussion.
 
----
+## Google Hangout
 
-There will be a Google Hangout available for the locations listed below to join. If you have a group joining from another location (with at least 2 attendees), let me know and I'll reserve a spot for you in the Hangout. I'm going to try to limit single attendees from joining the hangout since there is an upper limit of 10.
-Several locations have volunteered meatspaces for attendees to congregate. These include:
+There will be a Google Hangout in addition to the physical locations listed below. You can decide whether you would prefer to attend at a meatspace or would rather join the Hangout directly. Keep in mind that Hangouts are limited to 10, so based on attendance there might not be room for you to join the discussion. We will also broadcast the hangout so you can view even if you can't join the discussion.
+
+## Meatspaces
 
 - **CentreSource** (In the new building, entered from 5th Ave. Feel free to show up.)
 
