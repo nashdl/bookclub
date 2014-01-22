@@ -17,7 +17,7 @@ Complete each book in 2 sessions. If we cannot accomplish that then we can decid
 
 # Meetup Details
 
-Thursday every 2 weeks at Noon-1pm CST.
+Thursday every 2 weeks at Noon-1pm CST. [Google Calendar](https://www.google.com/calendar/embed?src=66dfn1jn56emvnjsj6snp7663k%40group.calendar.google.com&ctz=America/Chicago)
 
 ## IRC
 
