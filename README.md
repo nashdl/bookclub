@@ -4,13 +4,11 @@ Notes/Discussions for NashDL Book Club
 
 # Next Book
 
-2014 02-27 && 3-13
-[The Mikado Method](http://www.manning.com/ellnestam/)
-
-2014 01-30 && 02-13 
-[The Drunkard's Walk](http://www.amazon.com/The-Drunkards-Walk-Randomness-Rules/dp/0307275175)
+2014 02-27 && 3-13 [The Mikado Method](http://www.manning.com/ellnestam/)
 
 # Books Completed
+
+2014 01-30 && 02-13 [The Drunkard's Walk](http://www.amazon.com/The-Drunkards-Walk-Randomness-Rules/dp/0307275175)
 
 2014 01-09 && 01-16 [DDD Quickly](http://www.infoq.com/minibooks/domain-driven-design-quickly)
 
