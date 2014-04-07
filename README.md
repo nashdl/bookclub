@@ -6,6 +6,7 @@ Notes/Discussions for NashDL Book Club
 
 - 2014-04-10 The next book will be a Christopher Alexander book. However, before we start on that we're doing a single session on [Object Mentor: Principles and Patterns](http://www.objectmentor.com/resources/articles/Principles_and_Patterns.pdf)
 
+- 2014 04-24 && 05-08 [Christopher Alexander: The Timeless Way of Building](http://www.amazon.com/The-Timeless-Building-Christopher-Alexander/dp/0195024028/ref=sr_1_1?ie=UTF8&qid=1396887135&sr=8-1&keywords=christopher+alexander+timeless+way+of+building)
 
 # Books Completed
 
