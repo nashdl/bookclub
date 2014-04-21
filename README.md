@@ -4,12 +4,24 @@ Notes/Discussions for NashDL Book Club
 
 # Next Book
 
-- 2014-04-10 The next book will be a Christopher Alexander book. However, before we start on that we're doing a single session on [Object Mentor: Principles and Patterns](http://www.objectmentor.com/resources/articles/Principles_and_Patterns.pdf)
 
 - 2014 04-24 && 05-08 [Christopher Alexander: The Timeless Way of Building](http://www.amazon.com/The-Timeless-Building-Christopher-Alexander/dp/0195024028/ref=sr_1_1?ie=UTF8&qid=1396887135&sr=8-1&keywords=christopher+alexander+timeless+way+of+building)
 
+@rickbra posted a useful tip on how to read this book in issue #14
+
+```
+My thoughts were doing a round of pre-processing before we get into it:
+
+Get a copy of the book
+Open up to basically page "vi" (unmarked), which has the header "ON READING THIS BOOK", and read that
+then hit "ix" through "xv", which is a "detailed table of contents", and read that
+then do what he says in "ON READING THIS BOOK" to basically read the book in an hour
+Then come back and comment here on how you think we should further read / discuss this.
+```
+
 # Books Completed
 
+- 2014-04-10  [Object Mentor: Principles and Patterns](http://www.objectmentor.com/resources/articles/Principles_and_Patterns.pdf)
 - 2014 02-27 && 3-13 [The Mikado Method](http://www.manning.com/ellnestam/)
 - 2014 01-30 && 02-13 [The Drunkard's Walk](http://www.amazon.com/The-Drunkards-Walk-Randomness-Rules/dp/0307275175)
 - 2014 01-09 && 01-16 [DDD Quickly](http://www.infoq.com/minibooks/domain-driven-design-quickly)
