@@ -7,7 +7,7 @@ Notes/Discussions for NashDL Book Club
 
 - 2014 04-24 && 05-08 [Christopher Alexander: The Timeless Way of Building](http://www.amazon.com/The-Timeless-Building-Christopher-Alexander/dp/0195024028/ref=sr_1_1?ie=UTF8&qid=1396887135&sr=8-1&keywords=christopher+alexander+timeless+way+of+building)
 
-@rickbra posted a useful tip on how to read this book in issue #14
+@rickbra posted a useful tip on how to read this book in [issue #14](https://github.com/nashdl/bookclub/issues/14)
 
 ```
 My thoughts were doing a round of pre-processing before we get into it:
